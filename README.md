@@ -1,2 +1,3 @@
 # main_public
-The main public repository for src-fingerprint
+
+This repository is the main public repository for src-fingerprint GitHub account.
